@@ -1,0 +1,25 @@
+{
+  "cards": [
+    
+      {
+        "cardName": "HDFC",
+        "cardNumber": "card-1001",
+        "cardLimit": 100000,
+        "cardRemainingAmount": 70000,
+        "cardUsedAmount": 30000,
+        "cardType": "RUPAY",
+        "cardBillDate": "10th July every month",
+        "cardDueDate": "10th August 2024"
+      },
+      {
+        "cardName": "SCB",
+        "cardNumber": "card-1002",
+        "cardLimit": 150000,
+        "cardRemainingAmount": 120000,
+        "cardUsedAmount": 30000,
+        "cardType": "VISA",
+        "cardBillDate": "15th July every month",
+        "cardDueDate": "15th August 2024"
+      }
+    ]
+}
